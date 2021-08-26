@@ -5,3 +5,9 @@ This is a boilerplate project for implementing SQFLite into Simple Mobile UI bas
 - Dog model combines with DoggieDatabaseService to implement CRUD functions
 - Creating database only requires Singleton design patterns.
 
+## Getting Started
+
+Four files: 
+- main.dart and show_all.dart show UI 
+- dog.dart shows Dog model.
+- database.dart implements CRUD methods for Dog model.
